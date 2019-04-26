@@ -1,6 +1,6 @@
 {
   "name": "create-react-mobx-app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple cli for create react project with mobx",
   "bin": {
     "rmobx-cli": "bin/rmobx"
